@@ -31,3 +31,5 @@ npm start
 
 <br>
 ## その他
+firebaseの設定画面サンプル
+<img width="455" alt="firebase" src="https://github.com/takushisato/React-uploader/assets/58543074/3a4a839c-129b-4c0d-924b-89dd68e04330">
